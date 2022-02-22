@@ -1,5 +1,4 @@
 from tabulate import tabulate
-
 import requests
 from bs4 import BeautifulSoup
 
